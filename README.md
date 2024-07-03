@@ -30,4 +30,14 @@ The purpose of the Workforce Dynamics: An HR Analytics Study is to analyze exten
    - Dataset consists is checked for its integrity for ensuring that we are working on a clean dataset. According to the requirement the chart and graphs for various KPIs are created using Data Analysis Tools. And then built dashboard includes slicers to see results using as per the demand of stakeholders.
    - From the analysis the Insights and Recommendations are found out.
 # Excel Dashboard
+![WD - EXCEL](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/d6f9c7b1-0460-485d-a042-20faae1c32e1)
+# Power BI Dashboard
+![WD - PBI](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/1cea5c9d-923f-4ba9-91fe-8d0af98d7172)
+# Tableau Dashboard
+![WD-Tableau 1](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/e8ef9b4d-6ee4-47ea-b300-4bb973152253)
+![WD-Tableau 2](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/a7a0e2be-4f78-4506-ac59-02a942dbd439)
+# SQL Queries
+Check the SQL work done for this project.[Workforce Dyanmics - SQL Queries and Answers.pdf](https://github.com/user-attachments/files/16076418/Workforce.Dyanmics.-.SQL.Queries.and.Answers.pdf)
 # Insights, Recommedations and Conclusions
+The following report presents the Insights of the project work.[Workforce Dynamics - Insights, Recommendations and Conclusion.pdf](https://github.com/user-attachments/files/16076428/Workforce.Dynamics.-.Insights.Recommendations.and.Conclusion.pdf)
+
