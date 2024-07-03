@@ -34,7 +34,9 @@ The purpose of the Workforce Dynamics: An HR Analytics Study is to analyze exten
 # Power BI Dashboard
 ![WD - PBI](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/1cea5c9d-923f-4ba9-91fe-8d0af98d7172)
 # Tableau Dashboard
+Dashboard 1
 ![WD-Tableau 1](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/e8ef9b4d-6ee4-47ea-b300-4bb973152253)
+Dashboard 2
 ![WD-Tableau 2](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/a7a0e2be-4f78-4506-ac59-02a942dbd439)
 # SQL Queries
 Check the SQL work done for this project.[Workforce Dyanmics - SQL Queries and Answers.pdf](https://github.com/user-attachments/files/16076418/Workforce.Dyanmics.-.SQL.Queries.and.Answers.pdf)
