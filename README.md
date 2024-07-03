@@ -39,7 +39,7 @@ Dashboard 1
 Dashboard 2
 ![WD-Tableau 2](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/a7a0e2be-4f78-4506-ac59-02a942dbd439)
 # SQL Queries
-Check the SQL work done for this project.[Workforce Dyanmics - SQL Queries and Answers.pdf](https://github.com/user-attachments/files/16076418/Workforce.Dyanmics.-.SQL.Queries.and.Answers.pdf)
+Check the SQL work done for this project. [Workforce Dyanmics - SQL Queries and Answers.pdf](https://github.com/user-attachments/files/16076418/Workforce.Dyanmics.-.SQL.Queries.and.Answers.pdf)
 # Insights, Recommedations and Conclusions
-The following report presents the Insights of the project work.[Workforce Dynamics - Insights, Recommendations and Conclusion.pdf](https://github.com/user-attachments/files/16076428/Workforce.Dynamics.-.Insights.Recommendations.and.Conclusion.pdf)
+The following report presents the Insights of the project work. [Workforce Dynamics - Insights, Recommendations and Conclusion.pdf](https://github.com/user-attachments/files/16076428/Workforce.Dynamics.-.Insights.Recommendations.and.Conclusion.pdf)
 
