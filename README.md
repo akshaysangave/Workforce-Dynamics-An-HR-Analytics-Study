@@ -7,7 +7,7 @@ In Workforce Dynamics: An HR Analytics Study, we analyze key HR metrics such as 
 The purpose of the Workforce Dynamics: An HR Analytics Study is to analyze extensive employee data to identify key factors affecting workplace dynamics. This study explores trends and patterns in variables such as average attrition rates by department, hourly rates for male research scientists, attrition versus monthly income, average working years per department, job role versus work-life balance, and attrition in relation to time since the last promotion. The aim is to provide valuable insights to support HR policy decisions and enhance workforce management.
 
 # Objective
-1. Analyze Average Attrition Rate:
+### 1. Analyze Average Attrition Rate:
    - Determine the average attrition rate across all departments to understand overall employee turnover trends.
 
 2. Evaluate Average Hourly Rate for Male Research Scientists:
