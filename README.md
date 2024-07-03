@@ -24,3 +24,10 @@ The purpose of the Workforce Dynamics: An HR Analytics Study is to analyze exten
 
 **6. Explore the Link Between Attrition Rate and Years Since Last Promotion:**
    - Investigate how the time elapsed since employees’ last promotion correlates with their likelihood of leaving the company to enhance career development strategies.
+
+# Data Cleaning, Data Visualization and Analysis
+   - The Workforce Dynamics dataset consists of 50,000 records capturing detailed employee information. These records span multiple departments and roles within the organization, enabling a thorough analysis of factors influencing workforce dynamics.
+   - Dataset consists is checked for its integrity for ensuring that we are working on a clean dataset. According to the requirement the chart and graphs for various KPIs are created using Data Analysis Tools. And then built dashboard includes slicers to see results using as per the demand of stakeholders.
+   - From the analysis the Insights and Recommendations are found out.
+# Excel Dashboard
+# Insights, Recommedations and Conclusions
