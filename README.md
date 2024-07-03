@@ -1,5 +1,6 @@
 # Workforce Dynamics : An HR Analytics Study
 ![WD](https://github.com/akshaysangave/Workforce-Dynamics-An-HR-Analytics-Study/assets/156088551/0dd96f17-3e96-4bc0-85a0-51e4592376bb)
+
 In Workforce Dynamics: An HR Analytics Study, we analyze key HR metrics such as department attrition rates, male research scientists' hourly rates, the correlation between attrition and income, departmental average working years, the impact of job roles on work-life balance, and attrition related to promotion timelines.
 
 ### *Tools used - MS Excel, Power BI, Tableau, SQL*
