@@ -10,17 +10,17 @@ The purpose of the Workforce Dynamics: An HR Analytics Study is to analyze exten
 **1. Analyze Average Attrition Rate:**
    - Determine the average attrition rate across all departments to understand overall employee turnover trends.
 
-2. Evaluate Average Hourly Rate for Male Research Scientists:
+**2. Evaluate Average Hourly Rate for Male Research Scientists:**
    - Assess the average hourly wage for male research scientists to identify potential pay disparities and inform compensation strategies.
 
-3. Investigate the Relationship Between Attrition Rate and Monthly Income:
+**3. Investigate the Relationship Between Attrition Rate and Monthly Income:**
    - Explore how variations in monthly income impact the attrition rate to identify factors that may influence employee retention.
 
-4. Examine Average Working Years for Each Department:
+**4. Examine Average Working Years for Each Department:**
    - Calculate the average number of years employees stay in each department to gauge departmental stability and identify potential areas for improvement.
 
-5. Determine the Correlation Between Job Roles and Work-Life Balance:
+**5. Determine the Correlation Between Job Roles and Work-Life Balance:**
    - Analyze the relationship between different job roles and employees’ perceptions of work-life balance to inform role design and support structures.
 
-6. Explore the Link Between Attrition Rate and Years Since Last Promotion:
+**6. Explore the Link Between Attrition Rate and Years Since Last Promotion:**
    - Investigate how the time elapsed since employees’ last promotion correlates with their likelihood of leaving the company to enhance career development strategies.
